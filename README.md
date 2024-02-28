@@ -1,8 +1,7 @@
-# Hi 👋, I'm Prasanna
+# Hi 👋, I'm Prasanna from Bergen, Norway
 
-### A passionate Full Stack Javascript developer
+### A passionate Full Stack developer (React JS, React Native, Express JS and .NET)
 
-- 📝 I regularly write blogs @ http://www.prasannat.com/blogs
-- 💬 Ask me about React, React Native, Next, Express, JS/TS, UI/UX and Growth Hacking
-- 📫 How to reach me tuladharprasan@gmail.com
-- Please visit my portfolio @ http://www.prasannat.com
+- I love 'TECHNOLOGY' and 'NATURE'. 
+- 💬 Ask me about React, React Native, Next, Express, JS/TS, C#, .NET and UI/UX.
+- 📫 How to reach me tuladharprasan@gmail.com.
