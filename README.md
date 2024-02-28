@@ -1,4 +1,5 @@
-# Hi 👋, I'm Prasanna from Bergen, Norway
+# Hi 👋, 
+#       I'm Prasanna fra Bergen, Norway
 
 ### A passionate Full Stack developer (React JS, React Native, Express JS and .NET)
 
